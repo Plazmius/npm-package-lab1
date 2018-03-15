@@ -1,0 +1,15 @@
+{
+  "name": "melnychenko-lab01",
+  "version": "1.0.1",
+  "description": "",
+  "main": "Lab1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Melnychenko",
+    "Lab1"
+  ],
+  "author": "Artem Melnychenko",
+  "license": "ISC"
+}
